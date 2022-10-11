@@ -1,0 +1,15 @@
+{
+    "name": "uniconnect/kit-shibboleth",
+    "autoload": {
+        "psr-4": {
+            "Uniconnect\\KitShibboleth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen Huu Nghia",
+            "email": "79639572+nghianhdev@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
